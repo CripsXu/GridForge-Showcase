@@ -74,3 +74,17 @@
 | 日期 | Agent | 变更 |
 |---|---|---|
 | 2026-11-20 19:02 | Codex GPT | Unity 私有仓库首次推送及完整 LFS 回读 |
+
+## 2026-11-20 19:17（Asia/Shanghai） · 作品集中文说明
+
+- 执行 Agent：Codex GPT。模块：GitHub 作品集文档。
+- 完成：更新两个仓库的中文 README 和 GitHub 简介，保留架构图、操作说明、录像和蓝图入口。Unity README 提交 9d496da，UE README 提交 8a8de85，均已推送并通过 GitHub API 回读。
+- 实际修改：Showcase README.md、docs/AI_HANDOFF.md，以及 UE 展示副本 README.md；更新两个 GitHub 仓库简介。
+- 已验证：本地相对链接存在，README 内容和 GitHub 简介已回读；Unity 仓库公开，UE5-ThirdPerson-Playground 仓库仍为私有。本次未运行游戏。
+- 遗留问题：UE 仓库公开状态由用户决定；其素材授权仍需确认。
+- 是否影响其他 Agent：仅文档与仓库简介，无业务改动。
+- 推荐下一步：用户在 GitHub 查看中文说明和 UE 仓库的可见性。
+
+| 日期 | Agent | 变更 |
+|---|---|---|
+| 2026-11-20 19:17 | Codex GPT | 作品集 README 与简介中文化，远端回读 |
