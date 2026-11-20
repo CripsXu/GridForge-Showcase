@@ -1,0 +1,98 @@
+{
+  "units": [
+    {
+      "id": 91001,
+      "name": "守卫",
+      "displayNameEn": "Guard",
+      "cost": 1,
+      "portraitAssetId": "portrait_91001",
+      "rarityFrameAssetId": "frame_cost_1",
+      "traits": [
+        "王国",
+        "护卫"
+      ],
+      "maxHp": 650,
+      "attack": 45,
+      "attackIntervalSeconds": 1.2,
+      "attackRangeCells": 1
+    },
+    {
+      "id": 91002,
+      "name": "林间游侠",
+      "displayNameEn": "Woodland Ranger",
+      "cost": 2,
+      "portraitAssetId": "portrait_91002",
+      "rarityFrameAssetId": "frame_cost_2",
+      "traits": [
+        "森林",
+        "游侠"
+      ],
+      "maxHp": 550,
+      "attack": 55,
+      "attackIntervalSeconds": 1.0,
+      "attackRangeCells": 3
+    },
+    {
+      "id": 91003,
+      "name": "霜语法师",
+      "displayNameEn": "Frost Mage",
+      "cost": 3,
+      "portraitAssetId": "portrait_91003",
+      "rarityFrameAssetId": "frame_cost_3",
+      "traits": [
+        "冰霜",
+        "法师"
+      ],
+      "maxHp": 500,
+      "attack": 40,
+      "attackIntervalSeconds": 1.4,
+      "attackRangeCells": 3
+    },
+    {
+      "id": 91004,
+      "name": "暮刃",
+      "displayNameEn": "Duskblade",
+      "cost": 4,
+      "portraitAssetId": "portrait_91004",
+      "rarityFrameAssetId": "frame_cost_4",
+      "traits": [
+        "暗影",
+        "刺客"
+      ],
+      "maxHp": 650,
+      "attack": 70,
+      "attackIntervalSeconds": 0.9,
+      "attackRangeCells": 1
+    },
+    {
+      "id": 91005,
+      "name": "曙光龙骑",
+      "displayNameEn": "Dawn Dragonknight",
+      "cost": 5,
+      "portraitAssetId": "portrait_91005",
+      "rarityFrameAssetId": "frame_cost_5",
+      "traits": [
+        "龙裔",
+        "骑士"
+      ],
+      "maxHp": 1000,
+      "attack": 90,
+      "attackIntervalSeconds": 1.2,
+      "attackRangeCells": 1
+    },
+    {
+      "id": 91006,
+      "name": "吉伊",
+      "displayNameEn": "Chiikawa",
+      "cost": 1,
+      "prefabAddress": "character/chiikawa",
+      "portraitAssetId": "portrait_91006",
+      "rarityFrameAssetId": "frame_cost_1",
+      "traits": [],
+      "maxHp": 650,
+      "attack": 45,
+      "attackIntervalSeconds": 1.2,
+      "attackRangeCells": 1
+    }
+  ]
+}
