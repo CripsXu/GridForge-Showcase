@@ -63,3 +63,14 @@
 | 日期 | Agent | 变更 |
 |---|---|---|
 | 2026-11-20 18:08 | Codex GPT | 三种结算提示和按任意键返回，四场 Play Mode 通过 |
+
+## 2026-11-20 19:02（Asia/Shanghai） · GitHub 私有仓库上传
+
+- 执行 Agent：Codex GPT。模块：作品集归档。
+- 为 Showcase 建立独立 Git 仓库并添加 .gitattributes，跨平台保留 Unity .meta；六段吉伊动画、FBX 和 OTF 使用 Git LFS。私有远端为 https://github.com/CripsXu/GridForge-Showcase ，分支 main。
+- 首次提交 fda258a 的 473 个文件已推送，并从 GitHub 独立克隆，9 个 LFS 文件下载、完整性校验与签出通过。本次未重跑 Unity 或构建 Player。此记录补充此前“未推送”的阶段状态。
+- UE 蓝图工程另存独立私有仓库，原始 Unity 与 UE 工程未作为工作树修改。公开分发仍需原资源权限确认。
+
+| 日期 | Agent | 变更 |
+|---|---|---|
+| 2026-11-20 19:02 | Codex GPT | Unity 私有仓库首次推送及完整 LFS 回读 |
