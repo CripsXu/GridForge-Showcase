@@ -21,3 +21,11 @@
 /Assets/Addressables_Temp*
 /Assets/AddressableAssetsData/*/*.bin*
 /Assets/AddressableAssetsData/link.xml*
+
+# Local development records and editor checks
+/docs/AI_HANDOFF.md
+/docs/UI_REVIEW.md
+/docs/interview-notes.md
+/Assets/Editor/ShowcaseSmoke.cs
+/Assets/Editor/ShowcaseSmoke.cs.meta
+/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
